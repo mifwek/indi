@@ -1,5 +1,5 @@
 {
-  "name": "folder-baru",
+  "name": "folder-oi",
   "version": "1.0.0",
   "description": "taek",
   "main": "index.js",
