@@ -4,7 +4,7 @@ const config = require("./config.json");
 
 bot.on("ready", async () => {
 	console.log(`${bot.user.username} sudah online!`);
-	bot.user.setActivity("Powershell", {type: "PLAYING"});
+	bot.user.setActivity("By Mifta", {type: "PLAYING"});
 });
 
 bot.on('guildMemberAdd', async (member) => {
